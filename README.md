@@ -23,7 +23,7 @@ The goal of our project is to optimize Pearmund Cellars Winery operations throug
 ## Navigating the Repository
 
 - **/data:**
-  - Contains datasets from Excel and Orderport for analysis.
+  - Contains datasets from Orderport,Tock and Constant Contact for analysis.
 - **/scripts:**
   - Python scripts for data extraction and cleaning.
 - **/dashboard:**
