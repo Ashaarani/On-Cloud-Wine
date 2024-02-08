@@ -19,7 +19,6 @@ The goal of our project is to optimize Pearmund Cellars Winery operations throug
 
 1. **Database Setup:**
    - Use SQL for storing structured data.
-   - Configure SQL database according to the schema provided in `/database/schema.sql`.
 
 ## Navigating the Repository
 
