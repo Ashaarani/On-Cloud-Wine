@@ -22,6 +22,7 @@ The goal of our project is to optimize Pearmund Cellars Winery operations throug
 
 **Database Setup:**
    - Use SQL for storing structured data.
+   - Markdown document providing step-by-step instructions for setting up and configuring the database.
 
 ## Navigating the Repository
 
