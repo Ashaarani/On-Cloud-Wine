@@ -6,7 +6,7 @@ The goal of our project is to optimize Pearmund Cellars Winery operations throug
 ## Setup Instructions
 
 ### Data:
- -Extract data from the DTC OrderPort system,Constant Contact and Tock System.
+  - Extract data from the DTC OrderPort system,Constant Contact and Tock System.
 
 ### Data Extraction and Cleaning
 
